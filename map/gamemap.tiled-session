@@ -1,0 +1,72 @@
+{
+    "activeFile": "безымянный.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Tilemap_Flat.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "castle.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "game_map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.3333333333333,
+                "y": 959.3333333333333
+            }
+        },
+        "houses.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "map/chess.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "map/houses_tables.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "stones1.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "безымянный.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1054,
+                "y": 1160
+            }
+        }
+    },
+    "last.imagePath": "D:/лицей/project_pygame/map",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "game_map.tmx",
+        "houses.tsx",
+        "stones1.tsx",
+        "map/houses_tables.tsx",
+        "castle.tsx",
+        "map/chess.tsx",
+        "безымянный.tmx"
+    ],
+    "project": "gamemap.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "game_map.tmx",
+        "houses.tsx",
+        "stones1.tsx",
+        "map/houses_tables.tsx",
+        "castle.tsx",
+        "map/chess.tsx",
+        "безымянный.tmx",
+        "Tilemap_Flat.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "безымянный.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Tilemap_Flat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "безымянный.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1310.6060606060607,
+                "y": 500
+            }
+        }
+    },
+    "last.externalTilesetPath": "D:/лицей/project_pygame",
+    "last.imagePath": "D:/лицей/project_pygame/resources",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "безымянный.tmx",
+        "Tilemap_Flat.tsx"
+    ],
+    "project": "first_map.tiled-project",
+    "recentFiles": [
+        "Tilemap_Flat.tsx",
+        "безымянный.tmx"
+    ],
+    "tileset.lastUsedFilter": "Все файлы (*)",
+    "tileset.lastUsedFormat": "tsx"
+}
